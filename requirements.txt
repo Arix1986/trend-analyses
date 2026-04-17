@@ -1,0 +1,5 @@
+apache-beam[interactive]==2.55.0
+kafka-python==2.0.2
+streamlit==1.32.0
+pandas==2.2.0
+confluent-kafka==2.3.0
